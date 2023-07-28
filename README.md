@@ -1,3 +1,5 @@
+BASIC MOVIE DATABASE
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -14,21 +16,8 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![screencapture-movies-database-nextjs-vercel-app-2023-07-28-14_54_04](https://github.com/cimensinan/movies-database-nextjs/assets/113183535/2807cc05-5fc1-4ea4-8b37-d183b7684aee)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![screencapture-movies-database-nextjs-vercel-app-2023-07-28-14_53_45](https://github.com/cimensinan/movies-database-nextjs/assets/113183535/be093907-d64d-44fd-8fc0-8e01d858a44b)
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![screencapture-movies-database-nextjs-vercel-app-2023-07-28-14_51_35](https://github.com/cimensinan/movies-database-nextjs/assets/113183535/22208ac7-6d55-4662-801a-71c36ca11f39)
